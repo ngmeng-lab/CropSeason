@@ -1,0 +1,9 @@
+{
+  "Name": "CropSeason",
+  "Author": "Suzuran_ss",
+  "Version": "1.0.0",
+  "Description": "Able to prevent crops from withering out of season, and allow crops to be planted in seasons they normally can't be grown in.",
+  "UniqueID": "Suzuran_ss.CropSeason",
+  "EntryDll": "CropSeason.dll",
+  "MinimumApiVersion": "4.0.0"
+}

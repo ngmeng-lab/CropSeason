@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CropSeason", "CropSeason\CropSeason.csproj", "{71234A08-58D4-425B-A6E0-5F56F9DF5E40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71234A08-58D4-425B-A6E0-5F56F9DF5E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71234A08-58D4-425B-A6E0-5F56F9DF5E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71234A08-58D4-425B-A6E0-5F56F9DF5E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71234A08-58D4-425B-A6E0-5F56F9DF5E40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14112783-A6AE-4558-B92D-9C92A55C1A8F}
+	EndGlobalSection
+EndGlobal
